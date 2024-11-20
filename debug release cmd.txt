@@ -1,0 +1,1 @@
+keytool   -genkey -v   -storetype JKS   -keyalg RSA   -keysize 2048   -validity 10000   -storepass password   -keypass keyPassword   -alias debugkey1  -keystore release.keystore   -dname "CN=com.expo.dinara.mobile,OU=,O=,L=,S=,C=US"

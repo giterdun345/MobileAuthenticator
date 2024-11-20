@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android"],
+  "ios": {
+    "modules": ["CryptoKeepModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.cryptokeep.CryptoKeepModule"]
+  }
+}

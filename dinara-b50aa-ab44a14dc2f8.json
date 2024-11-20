@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dinara-b50aa",
+  "private_key_id": "ab44a14dc2f8bbc5f519165528327022e6caf38d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChXo4wFdCfXLP4\nm3fgk+MYlm27wivZ7ZIT0OdA0JKkMti09X4w7zDqQB475MyeUAdHzJELDDaHetjH\noBGv1jlLd1sqvGmOIYbkfVhpMEewdUWwOeQ7cblwg/id+QYhMJAWVCwfuzAnpKI+\nNno93CHY68PE3ejR+F5Jv4zzj1lItqoOk3HCiaQdReezuvlbw+EhNy4ewKM2848s\nAp6/VEAipmNkszUc1I3dgWzACeoKgtgzsuokxN+zTx+96oQwbH0tCj4dCxFXG0yu\nF4EQ6fFiQUw4I87OWdlUAtVGnxkq270pZxLoyMKfqnKPnjczxAetJZ1um0Yfao7c\n18EeeccfAgMBAAECggEAPozT6dCy7ur0ugOteohoqWG6BGM2M0HS80pxMV8H0I0D\nElXshdRZrhuPfKDqLd2QjOS/PjyMMITOXcbuxC1yRQ3tcUnaUqUtUAlESXXU/BHh\nIve1v9ML0hDdwIJEPX5BA965wc0B1AQNfbcJOExJdHejCX8JHca76bNN1CU3Myc5\nHqoOZtZO5Q6WNK1wrOTGlRn7q/8z0ODehS8WUnJnFkah7qFo7/GuR1xpu1Vu/Isq\nmv+m5FaRowbI7RItdZiMG3BVHnPUcvV2bj+PQYPuhbetBnS5GD2Ov+5h6uPILyob\nIWSo9xGN6h83tE/w1l22Z/eAiLUcv7JEr7VPVpTZAQKBgQDZya12f9KyFvICY/OQ\nPZNmZo6OQP7/4O4DKEJGmuSGQkizWPMXkVU7ZXC1JPZWQbYPjITQc8vwNX9ETdWt\n0H93Xl+EJ+4IGZK2wrUEFh8xS66CaWaBREIJkLKzqPnTYDZfnjuB1l39Oq2QsdBT\nS1uJn7NZt1RGgnZ/EUtP0y2IHwKBgQC9rr56RDv0O6b3O0ZtUmVFFWZIUxFv+yRq\nNasdxiKmLGRv+fsKwx+GS+EUpHY8gnvSI6NH6UKFRSmzyO6vKoAva/7AMpDM+Ehq\nBoNXH5KLJTLcC9dKt9e4P1+7iiD4q483qvyKypxXe+wrtoQoZofgJMa+MaZyUgsP\nNLDQ+DfhAQKBgQCBB8fJqTl/YbDIUcd/8btes+xJw6BQoUbif/ukMSirkqHYAB8m\nG2jP4+2+pMN9nzjqRWp6xeBR1KAuK58pd5nNcxBMEAwqqFwQA5OTdDfO0PP3N9MP\nSw2E9UGqx7Yb0ajlRa4j4omU+irSy0aN0tvM0d1EjiVUEP97kRd5l7gmKQKBgFbG\nwMFywfLj72ifp4KP9WB7f8WKqymNvYURdG00ndlj6bcIp/6ucZeg0yH8c1MPZtIm\nF6boYdRSZdeoDvn3+Zi4UV1gRLpgw9AtlpyfBw29QN1GVYILRRc3dvZ3JMpewjB3\nev2L36ZuPQdqgl9xOKwkZv/P+xPF0OVt945CYF4BAoGAL+YS7XHWsHCZxH3PPDnl\n5/8P1hZlD6EZQER+Re/GL7FXz3DVSOH+hj0cMUm358Us8sVu2PgSJfR4ZiJe9TXd\nXWW7Dd+UifDMOmvF+Nr16YwaJLYsFBpVZAYnmgSl6YUYMNE2eIcZmPPNkCsEcntV\nuapeFpTNiBdv1j/eCjiQTL8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "expo-service@dinara-b50aa.iam.gserviceaccount.com",
+  "client_id": "115330064941653518978",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/expo-service%40dinara-b50aa.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
