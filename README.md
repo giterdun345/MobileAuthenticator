@@ -1,3 +1,3 @@
 # MobileAuthenticator
 
-Details coming soon
+Details coming , see DinaraMobile folder README for additional details
