@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "apple",
+    "android",
+    "web"
+  ],
+  "apple": {
+    "modules": [
+      "KeypairSignModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.keypairsign.KeypairSignModule"
+    ]
+  }
+}

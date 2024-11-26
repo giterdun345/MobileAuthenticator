@@ -1,0 +1,50 @@
+{
+  "name": "keypair-sign",
+  "version": "0.1.0",
+  "description": "This module will create a keypair on your mobile device, store the private key, ship public key to backend and make requests to backend with signed jwt token for authentication",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "lint": "expo-module lint",
+    "test": "expo-module test",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "expo-module": "expo-module",
+    "open:ios": "xed example/ios",
+    "open:android": "open -a \"Android Studio\" example/android",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "keypair-sign",
+    "KeypairSign"
+  ],
+  "repository": "https://github.com/giterdun345/keypair-sign",
+  "bugs": {
+    "url": "https://github.com/giterdun345/keypair-sign/issues"
+  },
+  "author": "giterdun345 <johnmketterer@gmail.com> (https://github.com/giterdun345)",
+  "license": "MIT",
+  "homepage": "https://github.com/giterdun345/keypair-sign#readme",
+  "dependencies": {
+    "keypair-sign": "file:",
+    "expo": "~52.0.11",
+    "react": "18.3.1",
+    "react-native": "0.76.3"
+  },
+  "devDependencies": {
+    "@types/react": "~18.3.12",
+    "expo": "~52.0.0",
+    "expo-module-scripts": "^4.0.2",
+    "react-native": "0.76.0"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}
