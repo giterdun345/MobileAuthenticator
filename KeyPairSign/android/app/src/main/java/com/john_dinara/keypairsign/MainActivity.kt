@@ -1,4 +1,4 @@
-package com.keypairsign
+package com.john_dinara.keypairsign
 
 import android.os.Build
 import android.os.Bundle
